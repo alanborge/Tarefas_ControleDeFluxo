@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"br.com.fluxos","l":"Calculo_Das_Medias"},{"p":"br.com.fluxos","l":"Main"}]
